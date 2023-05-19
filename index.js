@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // function
-app.use("/", "funcionou"));
+app.use("/",  return "funcionou"));
 
 
 // Listen on `port` and 0.0.0.0
